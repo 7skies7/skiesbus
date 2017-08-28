@@ -1,0 +1,20 @@
+/* Show it is fixed to the top */
+body {
+
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+.mt-20{
+	margin-top: 10%;
+ }
+
+.pullRight{
+	right: 0;
+}
+
+.page-header{
+	padding-bottom: 10px;
+	margin-bottom: 	10px;
+	text-decoration: line; 
+}
